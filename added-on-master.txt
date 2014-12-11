@@ -1,0 +1,6 @@
+This file was added on master branch via the command line tool.
+
+Then after adding, it was modified.
+
+so need to add again! Becasue it commits the file as it was when you added it. So can't just change it later, need to add again.
+now lets see the diff work
